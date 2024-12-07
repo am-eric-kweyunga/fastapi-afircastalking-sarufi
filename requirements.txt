@@ -1,0 +1,9 @@
+fastapi[standard]
+python-dotenv
+uvicorn
+sqlmodel
+alembic
+pydantic-settings
+phonenumbers
+requests
+pyotp
